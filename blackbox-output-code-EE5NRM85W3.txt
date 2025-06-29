@@ -1,0 +1,14 @@
+
+4. Add a CNAME file for custom domain (if needed):
+
+
+```diff
+<<<<<<< SEARCH
+</head>
+=======
+</head>
+<!-- 
+  Untuk custom domain, buat file CNAME berisi:
+  contoh: monitoring.celengbalap.com 
+-->
+>>>>>>> REPLACE
