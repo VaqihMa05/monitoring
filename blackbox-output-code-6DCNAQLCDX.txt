@@ -1,0 +1,5 @@
+<<<<<<< SEARCH
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+=======
+    <link rel="icon" href="https://placehold.co/32x32?text=CB" type="image/x-icon">
+>>>>>>> REPLACE
