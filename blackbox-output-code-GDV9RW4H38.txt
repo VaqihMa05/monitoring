@@ -1,0 +1,17 @@
+
+3. Add GitHub Pages deployment instructions in a comment:
+
+
+```diff
+<<<<<<< SEARCH
+    <script src="https://cdn.tailwindcss.com"></script>
+=======
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- 
+      GitHub Pages Deployment:
+      1. Buat repository baru di GitHub
+      2. Upload semua file (index.html, favicon, dll)
+      3. Aktifkan GitHub Pages di Settings > Pages
+      4. Pilih branch main sebagai source
+    -->
+>>>>>>> REPLACE
